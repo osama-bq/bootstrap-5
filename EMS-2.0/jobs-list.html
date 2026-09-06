@@ -140,6 +140,117 @@
                                 </div>
                             </td>
                         </tr>
+                        <tr>
+                            <td>2</td>
+                            <td>Web Developer</td>
+                            <td>
+                                <div class="d-grid">
+                                    <a 
+                                        href="#"
+                                        class="btn btn-sm btn-primary"
+                                        data-bs-toggle="modal"
+                                        data-bs-target="#job_detail">
+                                        Details
+                                    </a>
+                                </div>
+                            </td>
+                            <td>
+                                <div class="d-grid">
+                                    <a 
+                                        href="#"
+                                        class="btn btn-sm btn-warning"
+                                        data-bs-toggle="modal"
+                                        data-bs-target="#job_edit">
+                                        Edit
+                                    </a>
+                                </div>
+                            </td>
+                            <td>
+                                <div class="d-grid">
+                                    <a 
+                                        href="#"
+                                        class="btn btn-sm btn-danger"
+                                        data-bs-toggle="modal"
+                                        data-bs-target="#job_delete">
+                                        Delete
+                                    </a>
+                                </div>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>3</td>
+                            <td>Web Designer</td>
+                            <td>
+                                <div class="d-grid">
+                                    <a 
+                                        href="#"
+                                        class="btn btn-sm btn-primary"
+                                        data-bs-toggle="modal"
+                                        data-bs-target="#job_detail">
+                                        Details
+                                    </a>
+                                </div>
+                            </td>
+                            <td>
+                                <div class="d-grid">
+                                    <a 
+                                        href="#"
+                                        class="btn btn-sm btn-warning"
+                                        data-bs-toggle="modal"
+                                        data-bs-target="#job_edit">
+                                        Edit
+                                    </a>
+                                </div>
+                            </td>
+                            <td>
+                                <div class="d-grid">
+                                    <a 
+                                        href="#"
+                                        class="btn btn-sm btn-danger"
+                                        data-bs-toggle="modal"
+                                        data-bs-target="#job_delete">
+                                        Delete
+                                    </a>
+                                </div>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>4</td>
+                            <td>Digital Marketer</td>
+                            <td>
+                                <div class="d-grid">
+                                    <a 
+                                        href="#"
+                                        class="btn btn-sm btn-primary"
+                                        data-bs-toggle="modal"
+                                        data-bs-target="#job_detail">
+                                        Details
+                                    </a>
+                                </div>
+                            </td>
+                            <td>
+                                <div class="d-grid">
+                                    <a 
+                                        href="#"
+                                        class="btn btn-sm btn-warning"
+                                        data-bs-toggle="modal"
+                                        data-bs-target="#job_edit">
+                                        Edit
+                                    </a>
+                                </div>
+                            </td>
+                            <td>
+                                <div class="d-grid">
+                                    <a 
+                                        href="#"
+                                        class="btn btn-sm btn-danger"
+                                        data-bs-toggle="modal"
+                                        data-bs-target="#job_delete">
+                                        Delete
+                                    </a>
+                                </div>
+                            </td>
+                        </tr>
                     </table>
                 </div>
             </div>
@@ -150,7 +261,7 @@
     <!-- Add Job Modal -->
     <div
         class="modal fade"
-        id="add_employee"
+        id="add_job"
         data-bs-backdrop="static"
         tabindex="-1"
         aria-hidden="true"
@@ -174,40 +285,15 @@
                                         <input type="date" class="form-control form-control-sm" required>
                                     </div>
                                 </div>
-                                <div class="col-md-6">
-                                    <div class="mb-3">
-                                        <input type="text" class="form-control form-control-sm" placeholder="First Name" required>
-                                    </div>
-                                </div>
-                                <div class="col-md-6">
-                                    <div class="mb-3">
-                                        <input type="text" class="form-control form-control-sm" placeholder="Last Name" required>
-                                    </div>
-                                </div>
-                                <div class="col-md-6">
-                                    <div class="mb-3">
-                                        <input type="email" class="form-control form-control-sm" placeholder="Email ID" required>
-                                    </div>
-                                </div>
-                                <div class="col-md-6">
-                                    <div class="mb-3">
-                                        <input type="tel" class="form-control form-control-sm" placeholder="Phone" required>
-                                    </div>
-                                </div>
                                 <div class="col-md-12">
                                     <div class="mb-3">
-                                        <select class="form-select form-select-sm" aria-label="Job Assigned">
-                                            <option selected>Select job for Employee</option>
-                                            <option value="Graphic Designer">Graphic Designer</option>
-                                            <option value="Web Designer">Web Designer</option>
-                                            <option value="Web Developer">Web Developer</option>
-                                            <option value="Digital Marketer">Digital Marketer</option>
-                                        </select>
+                                        <input type="text" class="form-control form-control-sm" placeholder="Job Name" required>
                                     </div>
                                 </div>
+
                                 <div class="col-md-10">
                                     <div class="d-grid">
-                                        <button type="submit" class="btn btn-sm btn-success">Add Employee</button>
+                                        <button type="submit" class="btn btn-sm btn-success">Add Job</button>
                                     </div>
                                 </div>
                                 <div class="col-md-2">
