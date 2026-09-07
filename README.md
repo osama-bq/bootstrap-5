@@ -68,8 +68,8 @@ EMS-2.0/
 
 ### Screenshot
 
-![EMS-2.0 Screenshot 1](.Screenshots/ems-2.0-1.png)
-![EMS-2.0 Screenshot 2](.Screenshots/ems-2.0-2.png)
+![EMS-2.0 Screenshot 1](./Screenshots/ems-2.0-1.png)
+![EMS-2.0 Screenshot 2](./Screenshots/ems-2.0-2.png)
 
 ---
 
@@ -132,9 +132,9 @@ BLOG-2.0/
 
 ### Screenshot
 
-![BLOG-2.0 Screenshot 1](.Screenshots/blog-2.0-1.png)
-![BLOG-2.0 Screenshot 2](.Screenshots/blog-2.0-2.png)
-![BLOG-2.0 Screenshot 3](.Screenshots/blog-2.0-3.png)
+![BLOG-2.0 Screenshot 1](./Screenshots/blog-2.0-1.png)
+![BLOG-2.0 Screenshot 2](./Screenshots/blog-2.0-2.png)
+![BLOG-2.0 Screenshot 3](./Screenshots/blog-2.0-3.png)
 
 ---
 
@@ -210,10 +210,10 @@ Prime-Inspire/
 
 ### Screenshot
 
-![Prime-Inspire Screenshot 1](.Screenshots/prime-inspire-1.png)
-![Prime-Inspire Screenshot 2](.Screenshots/prime-inspire-2.png)
-![Prime-Inspire Screenshot 3](.Screenshots/prime-inspire-3.png)
-![Prime-Inspire Screenshot 4](.Screenshots/prime-inspire-4.png)
+![Prime-Inspire Screenshot 1](./Screenshots/prime-inspire-1.png)
+![Prime-Inspire Screenshot 2](./Screenshots/prime-inspire-2.png)
+![Prime-Inspire Screenshot 3](./Screenshots/prime-inspire-3.png)
+![Prime-Inspire Screenshot 4](./Screenshots/prime-inspire-4.png)
 
 ---
 
